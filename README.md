@@ -57,6 +57,17 @@ orange #fd8a5e
 rosa #ff598f
 
 
+## color 4
+
+blue 006BA6
+
+sky 0496FF
+
+orange FFBC42
+
+rosa D81159
+
+red 8F2D56
 
 
 
